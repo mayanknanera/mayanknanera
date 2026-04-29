@@ -1,57 +1,27 @@
-# 👋 Hey, I'm Mayank Nanera
+# 👋 Hi, I'm Mayank Nanera
 
-Backend-focused developer who enjoys building real-world systems with Django 🚀  
-
----
-
-## 🧠 What I Do
-- Build backend systems using **Django & DRF**
-- Design clean database structures with **PostgreSQL**
-- Work on **authentication systems** (custom user models, OAuth, OTP)
-- Turn ideas into working products (not just tutorials)
+Python Developer specializing in backend development with Django and REST APIs.
 
 ---
 
-## 🛠️ Tech I Use
-💻 Python | Django | DRF  
-🗄️ PostgreSQL | MySQL | SQLite  
-🎨 Tailwind CSS | HTML/CSS | React (learning)  
-⚙️ Git | GitHub | Postman  
+## 🧠 About Me
+- 🎓 BCA (2023–2026) student  
+- ⚙️ Focused on building scalable and maintainable backend systems  
+- 📈 Continuously improving in API design, database modeling, and performance optimization  
+- 🚀 Open to internship opportunities  
 
 ---
 
-## 🔨 Things I've Built
+## 🛠️ Tech Stack
 
-### 🧩 Job Portal (CareerPlus)
-- Role-based system (Employer / Job Seeker)
-- Custom authentication using `AbstractBaseUser`
-- AI chatbot integration
-- Search, filters, application tracking
-
-### ⚡ Solar E-commerce Platform
-- Full cart + order lifecycle
-- OTP + OAuth authentication
-- Stock management with transaction handling
+| Category  | Technologies |
+|----------|-------------|
+| Backend  | Python, Django, Django REST Framework |
+| Database | PostgreSQL, MySQL, SQLite |
+| Frontend | HTML, CSS, Tailwind CSS |
+| Tools    | Git, GitHub, Postman |
 
 ---
 
-## 📚 Currently Leveling Up
-- Writing better APIs with **Django REST Framework**
-- Improving query optimization & performance
-- Learning how real production systems are designed
-
----
-
-## 🎯 Goal
-Get really good at backend engineering and contribute to a strong product team.
-
----
-
-## 📫 Reach Me
-- Email: mayanknanera144@gmail.com  
-- LinkedIn: https://linkedin.com/in/mayanknanera  
-
----
-
-## ⚡ Fun Fact
-I enjoy solving backend problems more than designing UIs 😄
+## 📫 Contact
+- 📧 mayanknanera144@gmail.com  
