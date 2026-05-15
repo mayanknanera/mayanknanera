@@ -18,8 +18,8 @@ Python Developer specializing in backend development with Django and REST APIs.
 |----------|-------------|
 | Backend  | Python, Django, Django REST Framework |
 | Database | PostgreSQL, MySQL, SQLite |
-| Frontend | HTML, CSS, Tailwind CSS |
-| Tools    | Git, GitHub, Postman |
+| Frontend | HTML, CSS, Tailwind CSS, React.js |
+| Tools    | Git, GitHub, ThunderClient |
 
 ---
 
